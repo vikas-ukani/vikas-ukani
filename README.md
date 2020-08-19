@@ -15,7 +15,7 @@
 
 ### About me: 
 
-<p>  I'm a Senior Laravel Web App Developer at Dignizant Technology which is located at Surat, Gujarat, India. I'm also excited to work with Python Language and quite intrested to learn about Machine Learning in Data Science field. I'm have quite learning skill to explore new technologies and solving real-life problems.</p 
+<p>I'm a Senior Laravel Web App Developer at Dignizant Technology which is located at Surat, Gujarat, India. I'm also excited to work with Python Language and quite interested to learn about Machine Learning in the Data Science field. I'm having quite a learning skills to explore new technologies and solving real-life problems.</p>
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
