@@ -1,4 +1,6 @@
-### Hi there,  😎 I'm Vikas Ukani, Professional Web App Developer 🔰
+# Hi there, 😎 
+
+##  *I'm Vikas Ukani, Full-stack Web App Developer* 🔰
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
 
@@ -21,7 +23,7 @@
 
 ### Connect with Me
 
-  &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikas-ukani-a02499167/)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/Stackoverflow-%fd75454.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/8744576/vikas-ukani)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/vikasukani)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/UknaiVikas)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/twitter-%1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/vikas_ukani5) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikas-ukani-a02499167/)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/Stackoverflow-%fd75454.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/8744576/vikas-ukani)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/vikasukani)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/UknaiVikas)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/twitter-%1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/vikas_ukani5) 
 
 <img src="https://github.com/vikas-ukani/vikas-ukani/blob/master/violine.gif" />
 
