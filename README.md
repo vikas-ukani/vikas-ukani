@@ -5,7 +5,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
 
 
-- 🔭 I’m currently working with Degnizant Technology with the position on Senior Laravel Web App Developer (Full-Stack Developer).
+- 🔭 Currently I’m working with Degnizant Technology with the position on Senior Laravel Web App Developer (Full-Stack Developer).
+- 💼 Started my career as a Web Developer on Coruscate Solution pvt. ltd. 
+- 💡 Intrested in Python Development.
+- 🎧 I Love to listen Music 🎶 and watch the Movies 📽️.
 - 🌱 I’m currently learning about *Machine Learning* and *Data Science* to smash my career..
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
