@@ -26,7 +26,7 @@
 <img src="https://github.com/vikas-ukani/vikas-ukani/blob/master/violine.gif" />
 
 ### Technical Skills
-<img src="https://img.shields.io/badge/PHP-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" />  &nbsp;  &nbsp;    <img src="https://img.shields.io/badge/Python-%FFFFFF.svg?&style=flat-square&logo=python&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23D00000.svg?&style=flat-square&logo=javascript&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=flat-square&logo=Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" />  &nbsp;  &nbsp;    <img src="https://img.shields.io/badge/Python-%FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23D00000.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
