@@ -1,6 +1,6 @@
 # Hi there, 😎 
 
-##  *I'm Vikas Ukani, Full-stack Web App Developer* 🔰
+<h3>*I'm <div class="text-danger">Vikas Ukani</div>, Full-stack Web App Developer* 🔰</h3>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
 
