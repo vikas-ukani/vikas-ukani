@@ -14,7 +14,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: LinkedIn Kaggle, GitHub, Facebook, Twitter, WhatsApp(+91 )
+- 📫 How to reach me: <b>LinkedIn Kaggle, GitHub, Facebook, Twitter, WhatsApp(+91 )</b>
 - 😄 Pronouns: <b>"Vi"</b> + <b>"kas"</b>
 <!-- - ⚡ Fun fact: ... -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" />
