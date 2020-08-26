@@ -1,12 +1,14 @@
 ## Hi There, ✋
 
 # 😎 *I'm **Vikas Ukani**, Full-Stack Web-App Developer* 🔰</h3>
+<!-- 
+<div class="text-danger"> <b> Thanks to Reach out My Page here, </b> </div> -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
 
 ## Highlights
 
-- 🔭 Currently I’m working with Degnizant Technology with the position on Senior Laravel Web App Developer (Full-Stack Developer).
+- 🔭 Currently I’m working with Degnizant Technology with the position on **Senior Laravel Web App Developer (Full-Stack Developer).**
 - 💼 Started my career as a Web Developer on Coruscate Solution pvt. ltd. 
 - 💡 Intrested in Python Development.
 - 🎧 I Love to listen Music 🎶 and watch the Movies 📽️.
