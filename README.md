@@ -16,7 +16,8 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: <b>LinkedIn Kaggle, GitHub, Facebook, Twitter, WhatsApp(+91 )</b>
+- 📫 How to reach me: <b> <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/" target="blank" class="text-primary"> <img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" heigh="15" width="15" />
+  </a> , <a href="https://www.kaggle.com/vikasukani" target="blank" class="text-info"> Kaggle</a> , GitHub, Facebook, Twitter, WhatsApp(+91 )</b>
 - 😄 Pronouns: <b>"Vi"</b> + <b>"kas"</b>
 <!-- - ⚡ Fun fact: ... -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" />
