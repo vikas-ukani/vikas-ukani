@@ -12,14 +12,14 @@
 - 💼 Started my career as a Web Developer on Coruscate Solution pvt. ltd. 
 - 💡 Intrested in Python Development.
 - 🎧 I Love to listen Music 🎶 and watch the Movies 📽️.
-- 🌱 I’m currently learning about *Machine Learning* and *Data Science* to smash my career..
+- 🌱 I’m currently learning about *Machine Learning* and *Data Science* to smash my career.. 
+
+- 📫 How to reach me: <b> <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/" target="_blank" class="text-primary"> LinkedIn</a> , <a href="https://www.kaggle.com/vikasukani" target="_blank" class="text-info"> Kaggle</a> , <a href="https://github.com/vikas-ukani" target="_blank" class="text-dark"> GitHub</a>,  <a href="https://www.facebook.com/UknaiVikas" target="_blank" class="text-success"> Facebook</a>, Twitter, WhatsApp(+91 )</b>
+- 😄 Pronouns: <b>"Vi"</b> + <b>"kas"</b>
+<!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: <b> <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/" target="_blank" class="text-primary"> LinkedIn
-  </a> , <a href="https://www.kaggle.com/vikasukani" target="_blank" class="text-info"> Kaggle</a> , <a href="https://github.com/vikas-ukani" target="_blank" class="text-dark"> GitHub</a>,  <a href="https://www.facebook.com/UknaiVikas" target="_blank" class="text-success"> Facebook</a>, Twitter, WhatsApp(+91 )</b>
-- 😄 Pronouns: <b>"Vi"</b> + <b>"kas"</b>
-<!-- - ⚡ Fun fact: ... -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" />
 
 ## About me: 
