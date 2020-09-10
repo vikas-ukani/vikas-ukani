@@ -1,6 +1,7 @@
 ### Hi There, ✋
 
-# 😎 *I'm **Vikas Ukani**, Full-Stack Web-App Developer.* 🔰
+# 😎 I'm **Vikas Ukani**, Full-Stack Web-App Developer. 🔰
+
 <!-- 
 <div class="text-danger"> <b> Thanks to Reach out My Page here, </b> </div> -->
 
@@ -45,7 +46,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikas-ukani-a02499167/)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/Stackoverflow-%fd75454.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/8744576/vikas-ukani)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/vikasukani)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/UknaiVikas)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/twitter-%1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/vikas_ukani5)    &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/github-%2320BEFF.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://sourcerer.io/vikas-ukani) 
 
-<img src="https://github.com/vikas-ukani/vikas-ukani/blob/master/violine.gif" />
+<img src="https://github.com/vikas-ukani/vikas-ukani/blob/master/violine.gif" height=200 width="100%" />
 
 ## Technical Skills
 <img src="https://img.shields.io/badge/PHP-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" />  &nbsp;  &nbsp;  <img src="https://img.shields.io/badge/laravel-%23D00000.svg?&style=for-the-badge&logo=laravel&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/vuejs-%23FCC624.svg?&style=for-the-badge&logo=vuejs&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/Python-%FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23D00000.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/mysql-%FFFFFF.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
