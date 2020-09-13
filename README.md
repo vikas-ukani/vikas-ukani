@@ -21,7 +21,7 @@
 
 <ul>
  
- <li> 🔭 <p class="text-align: justify;">Currently I’m working with <i>Dignizant Technology</i> with the position on <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Senior Laravel Web App Developer (Full-Stack Developer)</b></a></p></li>
+ <li> <p class="text-align: justify;">🔭 Currently I’m working with <i>Dignizant Technology</i> with the position on <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Senior Laravel Web App Developer (Full-Stack Developer)</b></a></p></li>
  <li> 💼 Started my career as a Web Developer on <a href="https://www.coruscatesolution.com/"><b>Coruscate Solution pvt. ltd.</b></a> </li>
  
  <li> 💡 Intrested in Python Development.</li>
