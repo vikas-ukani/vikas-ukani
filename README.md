@@ -17,28 +17,33 @@
 
 
 
-
-
-
 ## Highlights
 
-- 🔭 Currently I’m working with *Degnizant Technology* with the position on **Senior Laravel Web App Developer (Full-Stack Developer).**
-- 💼 Started my career as a Web Developer on Coruscate Solution pvt. ltd. 
-- 💡 Intrested in Python Development.
-- 🎧 I Love to listen Music 🎶 and watch the Movies 📽️.
-- 🌱 I’m currently learning about *Machine Learning* and *Data Science* to smash my career.. 
+<ul>
+ 
+ <li> 🔭 <p class="text-align: justify;">Currently I’m working with <i>Dignizant Technology</i> with the position on <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Senior Laravel Web App Developer (Full-Stack Developer)</b></a></p></li>
+ <li> 💼 Started my career as a Web Developer on <a href="https://www.coruscatesolution.com/"><b>Coruscate Solution pvt. ltd.</b></a> </li>
+ 
+ <li> 💡 Intrested in Python Development.</li>
+ <li> 🎧 I Love to listen Music 🎶 and watch the Movies 📽️.</li>
+ 
+ <li> 🌱 I’m currently learning about *Machine Learning* and *Data Science* to smash my career ...</li>
+ <li> 📫 How to reach me: <b> <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/" target="_blank" class="text-primary"> LinkedIn</a> , <a href="https://www.kaggle.com/vikasukani" target="_blank" class="text-info"> Kaggle</a> , <a href="https://github.com/vikas-ukani" target="_blank" class="text-dark"> GitHub</a>,  <a href="https://www.facebook.com/UknaiVikas" target="_blank" class="text-success"> Facebook</a>, Twitter, WhatsApp(+91 )</b> </li>
+ 
+  <li> 😄 Pronouns: <b>"Vi"</b> + <b>"kas"</b> </li>
+</ul>
 
-- 📫 How to reach me: <b> <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/" target="_blank" class="text-primary"> LinkedIn</a> , <a href="https://www.kaggle.com/vikasukani" target="_blank" class="text-info"> Kaggle</a> , <a href="https://github.com/vikas-ukani" target="_blank" class="text-dark"> GitHub</a>,  <a href="https://www.facebook.com/UknaiVikas" target="_blank" class="text-success"> Facebook</a>, Twitter, WhatsApp(+91 )</b>
-- 😄 Pronouns: <b>"Vi"</b> + <b>"kas"</b>
+ 
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" />
 
 ## About me: 
 
-<p>I'm a <b>Senior Laravel Web App Developer</b> at Dignizant Technology which is located at <b>Surat, Gujarat, India.</b> I'm also excited to work with Python Language and quite interested to learn about Machine Learning in the Data Science field. I'm having quite a learning skills to explore new technologies and solving real-life problems.</p>
+<p style="text-align: justify;">I'm a <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Senior Laravel Web App Developer (Full-Stack Developer)</b></a> at Dignizant Technology which is located at <b>Surat, Gujarat, India.</b> I'm also excited to work with Python Language and quite interested to learn about Machine Learning in the Data Science field. I'm having quite a learning skills to explore new technologies and solving real-life problems.</p>
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
