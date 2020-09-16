@@ -31,6 +31,9 @@
  <li> 📫 How to reach me: <b> <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/" target="_blank" class="text-primary"> LinkedIn</a> , <a href="https://www.kaggle.com/vikasukani" target="_blank" class="text-info"> Kaggle</a> , <a href="https://github.com/vikas-ukani" target="_blank" class="text-dark"> GitHub</a>,  <a href="https://www.facebook.com/UknaiVikas" target="_blank" class="text-success"> Facebook</a>, Twitter, WhatsApp(+91 )</b> </li>
  
   <li> 😄 Pronouns: <b>"Vi"</b> + <b>"kas"</b> </li>
+  
+  <!--  <li> <b>Here is my Formal Resume: <a href="https://venngage.net/ps/JQiLZhVP6AM/vikas-ukani-laravel-full-stack-developer-resume" alt="Vikas Ukani Resume" > Download or View</a></b> </li>  -->
+<!--  <li> <b>Here is my Interactive Resume: <a href="https://venngage.net/ps/JQiLZhVP6AM/vikas-ukani-laravel-full-stack-developer-resume" alt="Vikas Ukani Resume" > Download or View</a></b> </li>  -->
 </ul>
 
  
