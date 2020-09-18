@@ -1,4 +1,4 @@
-### Hi There, ✋
+ ### Hi There, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" >
 
 # 😎 I'm **Vikas Ukani**, Full-Stack Web-App Developer. 🔰
 
@@ -14,6 +14,9 @@
 
 <img align="right" alt="GIF" src="https://gifimage.net/wp-content/uploads/2018/06/trabajo-gif-4.gif" width="360"/>
 
+
+### :eyes: My Profile Visitor Counts,
+<img alt="Viewers" src="https://komarev.com/ghpvc/?username=vikas-ukani&color=green&style=flat-square"/>
 
 
 
@@ -43,6 +46,7 @@
 <!-- - 💬 Ask me about ... -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" />
+
 
 ## About me: 
 
