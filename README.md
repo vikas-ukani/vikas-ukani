@@ -33,7 +33,7 @@
  <li> 💡 Intrested in Python Development.</li>
  <li> 🎧 I Love to listen Music 🎶 and watch the Movies 📽️.</li>
  
- <li> 🌱 I’m currently learning about *Machine Learning* and *Data Science* to smash my career ...</li>
+ <li> 🌱 I’m currently learning about <b>Machine Learning</b> and <b>Data Science</b> to smash my career ...</li>
  <li> 📫 How to reach me: <b> <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/" target="_blank" class="text-primary"> LinkedIn</a> , <a href="https://www.kaggle.com/vikasukani" target="_blank" class="text-info"> Kaggle</a> , <a href="https://github.com/vikas-ukani" target="_blank" class="text-dark"> GitHub</a>,  <a href="https://www.facebook.com/UknaiVikas" target="_blank" class="text-success"> Facebook</a>, Twitter, WhatsApp(+91 )</b> </li>
  
   <li> 😄 Pronouns: <b>"Vi"</b> + <b>"kas"</b> </li>
