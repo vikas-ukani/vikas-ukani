@@ -22,6 +22,8 @@
 <!-- Place this tag where you want the button to render. -->
 <!-- <a class="github-button" href="https://github.com/vikas-ukani" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Follow @vikas-ukani on GitHub">Follow @vikas-ukani</a> -->
 
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
+<hr />
 
 ## Highlights
 
@@ -44,7 +46,7 @@
 
 ## My CV: 
 <ul>
- <li> <b>Here is my Formal Resume: <a href="https://drive.google.com/file/d/1agP6kUYnnjwmEI_JjD4piV__R9I_HWD-/view?usp=sharing" alt="Vikas Ukani Resume" > Download or View</a></b> </li>
+ <li> <b>Here is my Formal Resume: <a href="https://drive.google.com/file/d/1WmfPSKGoWq7TyBJYWngpACDm5QZmqdrE/view?usp=sharing" alt="Vikas Ukani Resume" > Download or View</a></b> </li>
  <li> <b>Here is my Interactive Resume: <a href="https://venngage.net/ps/JQiLZhVP6AM/vikas-ukani-laravel-full-stack-developer-resume" alt="Vikas Ukani Resume" > Download or View</a></b> </li>
 
 </ul>
