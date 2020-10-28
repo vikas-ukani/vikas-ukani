@@ -73,7 +73,7 @@
 
 <img src="https://github.com/vikas-ukani/vikas-ukani/blob/master/violine.gif" height=200 width="100%" />
 
-## Technical Skills
+## Programming Skills In
 <img src="https://img.shields.io/badge/PHP-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" />  &nbsp;  &nbsp;  <img src="https://img.shields.io/badge/laravel-%23D00000.svg?&style=for-the-badge&logo=laravel&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/vuejs-%23FCC624.svg?&style=for-the-badge&logo=vuejs&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/Python-%FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23D00000.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/mysql-%FFFFFF.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
