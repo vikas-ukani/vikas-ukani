@@ -2,7 +2,7 @@
 
 ### Hi There, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" >
 
-# 😎 I'm **Vikas Ukani**, Full-Stack Web-App Developer. 🔰
+# 😎 I'm **Vikas Ukani**, Full-Stack Web-Application Developer. 🔰
 
 <!-- 
 <div class="text-danger"> <b> Thanks to Reach out My Page here, </b> </div> -->
