@@ -5,6 +5,7 @@
 # 😎 I'm **Vikas Ukani**, Full-Stack Web-Application Developer. 🔰
 
 <!-- 
+
 <div class="text-danger"> <b> Thanks to Reach out My Page here, </b> </div> -->
 
 <!--  https://user-images.githubusercontent.com/57037068/88589670-8c77e580-d06a-11ea-8067-696c17a6a496.gif   -->
@@ -12,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
 
 
-
+ 
 
 <img align="right" alt="GIF" src="https://gifimage.net/wp-content/uploads/2018/06/trabajo-gif-4.gif" width="360"/>
 
@@ -32,7 +33,7 @@
  <li> <p class="text-align: justify;">🔭 Currently I’m working with <i>Dignizant Technology</i> with the position on <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Senior Laravel Web App Developer (Full-Stack Developer)</b></a></p></li>
  <li> 💼 Started my career as an Web Developer on <a href="https://www.coruscatesolution.com/"><b>Coruscate Solution pvt. ltd.</b></a> </li>
  
- <li> 💡 Intrested in Python Development.</li>
+ <li> 💡 Intrested in PYTHONISTS FULL STACK DEVELOPMENT.</li>
  <li> 🎧 I Love to listen Music 🎶 and watch the Movies 📽️.</li>
  
  <li> 🌱 I’m currently learning about <b>Machine Learning</b> and <b>Data Science</b> to smash my career ...</li>
