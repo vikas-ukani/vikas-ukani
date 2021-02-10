@@ -70,6 +70,9 @@ class Skills(ProgrammingLanguage):
 ```
 
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
+
 ## My CV: 
 <ul>
  <li> <b>Here is my Formal Resume: <a href="https://drive.google.com/file/d/1WmfPSKGoWq7TyBJYWngpACDm5QZmqdrE/view?usp=sharing" alt="Vikas Ukani Resume" > Download or View</a></b> </li>
