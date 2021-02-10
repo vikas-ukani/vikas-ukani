@@ -45,6 +45,31 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
+
+
+```python
+from software_engineer import SoftwareDeveloper ;
+
+class Position(SoftwareDeveloper):
+
+  def __init__(self):
+    self.employee_name     = 'Vikas Ukani'
+    self.employee_title    = 'Software Engineer'
+    self.company_name  = 'Maven Agency'
+    self.location = 'Vesu Surat'  
+    
+
+
+class Skills(ProgrammingLanguage):
+  programing_language  = ['JavaScript', 'PHP', 'Python];
+  databases  = ['MySQL', 'MongoDB', 'SQLite', 'PostgreSQL'];
+  backend_frameworks = ['Laravel', 'NodeJS', 'Django'];
+  frontend_frameworks = ['AngularJS', 'VueJS', 'ReactJS', 'NextJS'];
+
+
+```
+
+
 ## My CV: 
 <ul>
  <li> <b>Here is my Formal Resume: <a href="https://drive.google.com/file/d/1WmfPSKGoWq7TyBJYWngpACDm5QZmqdrE/view?usp=sharing" alt="Vikas Ukani Resume" > Download or View</a></b> </li>
