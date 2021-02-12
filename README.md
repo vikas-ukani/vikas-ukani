@@ -61,7 +61,7 @@ class Position(SoftwareDeveloper):
 
 
 class Skills(ProgrammingLanguage):
-  programing_language  = ['JavaScript', 'PHP', 'Python];
+  programing_language  = ['JavaScript', 'PHP', 'Python'];
   databases  = ['MySQL', 'MongoDB', 'SQLite', 'PostgreSQL'];
   backend_frameworks = ['Laravel', 'NodeJS', 'Django'];
   frontend_frameworks = ['AngularJS', 'VueJS', 'ReactJS', 'NextJS'];
