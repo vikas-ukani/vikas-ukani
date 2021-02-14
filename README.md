@@ -110,4 +110,6 @@ class Skills(ProgrammingLanguage):
 ## Visual Status
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-ukani&show_icons=true&theme=radical) ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=vikas-ukani&show_icons=true&theme=radical)
+<!-- [![Vikas Ukani's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vikas-ukani)](https://github.com/vikas-ukani/github-readme-stats) -->
+
 
