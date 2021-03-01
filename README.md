@@ -48,24 +48,31 @@
 
 
 ```python
-from software_engineer import SoftwareDeveloper ;
+
+
+from software_engineer import SoftwareDeveloper
 
 class Position(SoftwareDeveloper):
 
   def __init__(self):
-    self.employee_name     = 'Vikas Ukani'
-    self.employee_title    = 'Software Engineer'
-    self.company_name  = 'Maven Agency'
-    self.location = 'Vesu Surat'  
-    
+    self.employee_name     =    'Vikas Ukani'
+    self.employee_title    =    'Software Engineer'
+    self.company_name      =    'Maven Agency'
+    self.location          =    'Vesu Surat'  
 
 
 class Skills(ProgrammingLanguage):
-  programing_language  = ['JavaScript', 'PHP', 'Python'];
-  databases  = ['MySQL', 'MongoDB', 'SQLite', 'PostgreSQL'];
-  backend_frameworks = ['Laravel', 'NodeJS', 'Django'];
-  frontend_frameworks = ['AngularJS', 'VueJS', 'ReactJS', 'NextJS'];
+  programing_language     =    ['JavaScript', 'PHP', 'Python']
+  databases               =    ['MySQL', 'MongoDB', 'SQLite', 'PostgreSQL']
+  backend_frameworks      =    ['Laravel', 'NodeJS', 'Django']
+  frontend_frameworks     =    ['AngularJS', 'VueJS', 'ReactJS', 'NextJS']
 
+def know_me():
+  position =  Position()
+  skill    =  Skills()
+
+if __name__ == "__main__":
+    know_me()
 
 ```
 
@@ -100,7 +107,7 @@ class Skills(ProgrammingLanguage):
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikas-ukani-a02499167/)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/Stackoverflow-%fd75454.svg?&style=for-the-badge&logo=stackoverflow&color=red&logoColor=white" />](https://stackoverflow.com/users/8744576/vikas-ukani)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&color=yellow&logoColor=white" />](https://www.kaggle.com/vikasukani)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/UknaiVikas)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/twitter-%2320BEFF.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/vikas_ukani5)    &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/github-%FFFFFF.svg?&style=for-the-badge&logo=github&color=black&logoColor=white" />](https://sourcerer.io/vikas-ukani)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/stackexchange-%ca64564.svg?&style=for-the-badge&logo=stackexchange&color=orange&logoColor=white" />](https://datascience.stackexchange.com/users/101318/vikas-ukani)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/dataquest-%ca64564.svg?&style=for-the-badge&logo=dataquest&color=purple&logoColor=white" />](https://app.dataquest.io/profile/vikas123)    
 
 
-<img src="https://github.com/vikas-ukani/vikas-ukani/blob/master/violine.gif" height=200 width="100%" />
+<img src="https://github.com/vikas-ukani/vikas-ukani/blob/master/violine.gif" height=300 width="100%" />
 
 ## Programming Skills In
 <img src="https://img.shields.io/badge/PHP-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" />  &nbsp;  &nbsp;  <img src="https://img.shields.io/badge/laravel-%23D00000.svg?&style=for-the-badge&logo=laravel&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/vuejs-%23FCC624.svg?&style=for-the-badge&logo=vuejs&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/Python-%FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23D00000.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/mysql-%FFFFFF.svg?&style=for-the-badge&logo=mysql&logoColor=white" />    &nbsp; &nbsp;      <img src="https://img.shields.io/badge/mongodb-%23FF00AA.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> 
