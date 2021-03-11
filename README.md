@@ -68,9 +68,23 @@ class Skills(ProgrammingLanguage):
   backend_frameworks      =    ['Laravel', 'NodeJS', 'Django']
   frontend_frameworks     =    ['AngularJS', 'VueJS', 'ReactJS', 'NextJS']
 
+
+def know_more_about_me():
+  """
+  Want to visit my portfolio site?
+  """
+  from computer import GoogleChrome
+  
+  visit_my_portfolio_website = "https://vikas-ukani.github.io/react-next-portfolio-dev/" # Website under construction 😉 
+  GoogleChrome.search_in_new_tab(visit_my_portfolio_website)
+ 
+  
 def know_me():
   position =  Position()
   skill    =  Skills()
+  know_more_about_me()
+  
+
 
 if __name__ == "__main__":
     know_me()
