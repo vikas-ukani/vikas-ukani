@@ -63,16 +63,17 @@ class Position(SoftwareDeveloper):
 
 
 class Skills(ProgrammingLanguage):
-  programing_language     =    ['JavaScript', 'PHP', 'Python']
-  databases               =    ['MySQL', 'MongoDB', 'SQLite', 'PostgreSQL']
-  backend_frameworks      =    ['Laravel', 'NodeJS', 'Django']
-  frontend_frameworks     =    ['AngularJS', 'VueJS', 'ReactJS', 'NextJS']
+  programing_language     =    ( 'PHP', 'Python', 'JavaScript' )
+  databases               =    [ 'MySQL', 'MongoDB', 'SQLite', 'PostgreSQL' ]
+  backend_frameworks      =    { 'Laravel', 'NodeJS', 'Django' }
+  frontend_frameworks     =    [ ( 'AngularJS' ) , ( 'VueJS' ), ( 'ReactJS' ), ( 'NextJS' ) ]
 
 
 def know_more_about_me():
   """
   Want to visit my portfolio site?
   """
+  
   from computer import GoogleChrome
   
   visit_my_portfolio_website = "https://vikas-ukani.github.io/react-next-portfolio-dev/" # Website under construction 😉 
