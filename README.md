@@ -1,8 +1,8 @@
 <img align="left" src="https://thaddeus-segura.com/wp-content/uploads/2020/07/f16d4dd5aa05c3754fd0b359d487cce64f6252730a7cc435f3f37a13e53e2e59.0.png" alt="Heyy" width="15%" />
 
-### Hi There, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" >
+### Hi There, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" >   Glad to see you here!
 
-# 😎 I'm **Vikas Ukani**, Full-Stack Web-Application Developer. 🔰
+# 😎 I'm **Vikas Ukani**, Full-Stack Web-Application Developer. 🔰 
 
 <!-- 
 
@@ -18,7 +18,7 @@
 <img align="right" alt="GIF" src="https://gifimage.net/wp-content/uploads/2018/06/trabajo-gif-4.gif" width="360"/>
 
 
-### :eyes: No of Profile Views,
+### :eyes: No. of Profile Views,
 <img alt="Viewers" src="https://komarev.com/ghpvc/?username=vikas-ukani&color=green&style=flat-square"/>
 <!-- Place this tag where you want the button to render. -->
 <!-- <a class="github-button" href="https://github.com/vikas-ukani" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Follow @vikas-ukani on GitHub">Follow @vikas-ukani</a> -->
@@ -126,7 +126,7 @@ if __name__ == "__main__":
 <img src="https://github.com/vikas-ukani/vikas-ukani/blob/master/violine.gif" height=300 width="100%" />
 
 ## Programming Skills In
-<img src="https://img.shields.io/badge/PHP-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" />  &nbsp;  &nbsp;  <img src="https://img.shields.io/badge/laravel-%23D00000.svg?&style=for-the-badge&logo=laravel&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/vuejs-%23FCC624.svg?&style=for-the-badge&logo=vuejs&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/Python-%FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23D00000.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/mysql-%FFFFFF.svg?&style=for-the-badge&logo=mysql&logoColor=white" />    &nbsp; &nbsp;      <img src="https://img.shields.io/badge/mongodb-%23FF00AA.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/PHP-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" />  &nbsp;  &nbsp;  <img src="https://img.shields.io/badge/laraveljs-%23D00000.svg?&style=for-the-badge&logo=laraveljs&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/reactjs-%233756AB.svg?&style=for-the-badge&logo=react&logoColor=white" />    &nbsp; &nbsp; <img src="https://img.shields.io/badge/vuejs-%23FCC624.svg?&style=for-the-badge&logo=vuejs&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/Python-%FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23D00000.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/mysql-%FFFFFF.svg?&style=for-the-badge&logo=mysql&logoColor=white" />    &nbsp; &nbsp;      <img src="https://img.shields.io/badge/mongodb-%23FF00AA.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
