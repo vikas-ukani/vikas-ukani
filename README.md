@@ -52,7 +52,7 @@
 
 
 from software_engineer import SoftwareDeveloper
-
+import os
 class Position(SoftwareDeveloper):
 
   def __init__(self):
@@ -66,7 +66,7 @@ class Skills(ProgrammingLanguage):
   programing_language     =    ( 'PHP', 'Python', 'JavaScript' )
   databases               =    [ 'MySQL', 'MongoDB', 'SQLite', 'PostgreSQL' ]
   backend_frameworks      =    { 'Laravel', 'NodeJS', 'Django' }
-  frontend_frameworks     =    [ ( 'AngularJS' ) , ( 'VueJS' ), ( 'ReactJS' ), ( 'NextJS' ) ]
+  frontend_frameworks     =    [ ( 'NextJS' ) , ( 'VueJS' ), ( 'ReactJS' ), ( 'AngularJS' )  ]
 
 
 def know_more_about_me():
@@ -76,7 +76,8 @@ def know_more_about_me():
   
   from computer import GoogleChrome
   
-  visit_my_portfolio_website = "https://vikas-ukani.github.io/react-next-portfolio-dev/" # Website under construction 😉 
+  # Website under construction 😉 
+  visit_my_portfolio_website = "https://vikas-ukani.github.io/react-next-portfolio-dev/"
   GoogleChrome.search_in_new_tab(visit_my_portfolio_website)
  
   
@@ -86,9 +87,10 @@ def know_me():
   know_more_about_me()
   
 
-
 if __name__ == "__main__":
     know_me()
+    os.system("exit()")
+    
 
 ```
 
