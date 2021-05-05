@@ -78,8 +78,8 @@ def know_more_about_me():
   
   from computer import GoogleChrome
   
-  # Website under construction 😉 
-  visit_my_portfolio_website = "https://vikas-ukani.github.io/react-next-portfolio-dev/"
+  # This Website is Under Development. 😉 
+  visit_my_portfolio_website = "https://vikas-ukani.github.io/"
   GoogleChrome.search_in_new_tab(visit_my_portfolio_website)
  
   
