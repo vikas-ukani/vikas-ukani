@@ -13,7 +13,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
 
 
- 
 
 <img align="right" alt="GIF" src="https://gifimage.net/wp-content/uploads/2018/06/trabajo-gif-4.gif" width="360"/>
 
@@ -30,22 +29,21 @@
 
 <ul>
  
- <li> <p class="text-align: justify;">🔭 Currently I’m working with <i>Dignizant Technology</i> with the position on <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Senior Laravel Web App Developer (Full-Stack Developer)</b></a></p></li>
+ <li> <p class="text-align: justify;">🔭 Currently I’m working with <i>Maven Technology</i> with the position on <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Software Engineer (Full-Stack Developer)</b></a></p></li>
  <li> 💼 Started my career as an Web Developer on <a href="https://www.coruscatesolution.com/"><b>Coruscate Solution pvt. ltd.</b></a> </li>
  
- <li> 💡 Intrested in PYTHONISTS FULL STACK DEVELOPMENT.</li>
- <li> 🎧 I Love to listen Music 🎶 and watch the Movies 📽️.</li>
+ <li> 💡 Intrested to become a PYTHONISTS FULL-STACK DEVELOPMENT.</li>
+ <li> 🎧 I like to Enjoy a Music 🎶 and Watching the Movies 📽️. and Eat Delicious Foods</li>
  
- <li> 🌱 I’m currently learning about <b>Machine Learning</b> and <b>Data Science</b> to smash my career ...</li>
+ <li> 🌱 I’m currently learning and working on Kaggle and Participating <b>Machine Learning</b> and <b>Data Science</b> compititions to move my career to the next level and many more...</li>
  <li> 📫 How to reach me: <b> <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/" target="_blank" class="text-primary"> LinkedIn</a> , <a href="https://www.kaggle.com/vikasukani" target="_blank" class="text-info"> Kaggle</a> , <a href="https://github.com/vikas-ukani" target="_blank" class="text-dark"> GitHub</a>,  <a href="https://www.facebook.com/UknaiVikas" target="_blank" class="text-success"> Facebook</a>, Twitter, WhatsApp(+91 )</b> </li>
  
-  <li> ⚡ Fun fact: I like to explore lettest programming technologies and want to work with agile crew of professional developers.</li>
+  <li> ⚡ Fun fact: I always love to explore my skillset and learn lettest programming technologies and wish to work with huge crew of professional developers.</li>
   <li> 😄 Pronouns: <b>"Vi"</b> + <b>"kas"</b> </li>
   
 </ul>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
 
 
 ```python
@@ -118,7 +116,7 @@ if __name__ == "__main__":
 
 ## About me: 
 
-<p style="text-align: justify;">I'm a <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Senior Laravel Web App Developer (Full-Stack Developer)</b></a> at Dignizant Technology which is located at <b>Surat, Gujarat, India.</b> I'm also excited to work with Python Language and quite interested to learn about Machine Learning in the Data Science field. I'm having quite a learning skills to explore new technologies and solving real-life problems.</p>
+<p style="text-align: justify;">I'm a <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Software Engineer Web Applicaion Developer(Full-Stack Developer)</b></a> at Maven Technology which is located at <b>Vesu-Surat, Gujarat, India.</b> I'm also excited to work with Python Language and quite interested to learn more about Machine Learning in the Data Science field. Having quite a learning skills to explore new technologies and solving real-life problems.</p>
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
@@ -126,10 +124,9 @@ if __name__ == "__main__":
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikas-ukani-a02499167/)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/Stackoverflow-%fd75454.svg?&style=for-the-badge&logo=stackoverflow&color=red&logoColor=white" />](https://stackoverflow.com/users/8744576/vikas-ukani)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&color=yellow&logoColor=white" />](https://www.kaggle.com/vikasukani)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/UknaiVikas)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/twitter-%2320BEFF.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/vikas_ukani5)    &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/github-%FFFFFF.svg?&style=for-the-badge&logo=github&color=black&logoColor=white" />](https://sourcerer.io/vikas-ukani)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/stackexchange-%ca64564.svg?&style=for-the-badge&logo=stackexchange&color=orange&logoColor=white" />](https://datascience.stackexchange.com/users/101318/vikas-ukani)          &nbsp;  &nbsp;          [<img src="https://img.shields.io/badge/dataquest-%ca64564.svg?&style=for-the-badge&logo=dataquest&color=purple&logoColor=white" />](https://app.dataquest.io/profile/vikas123)    
 
-
 <img src="https://github.com/vikas-ukani/vikas-ukani/blob/master/violine.gif" height=300 width="100%" />
 
-## Programming Skills In
+## Programming Skills In,
 <img src="https://img.shields.io/badge/PHP-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" />  &nbsp;  &nbsp;  <img src="https://img.shields.io/badge/laraveljs-%23D00000.svg?&style=for-the-badge&logo=laraveljs&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/reactjs-%233756AB.svg?&style=for-the-badge&logo=react&logoColor=white" />    &nbsp; &nbsp; <img src="https://img.shields.io/badge/vuejs-%23FCC624.svg?&style=for-the-badge&logo=vuejs&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/Python-%FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23D00000.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/mysql-%FFFFFF.svg?&style=for-the-badge&logo=mysql&logoColor=white" />    &nbsp; &nbsp;      <img src="https://img.shields.io/badge/mongodb-%23FF00AA.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
