@@ -48,8 +48,9 @@
 
 ## My CV: 
 <ul>
- <li> <b>Here is my Formal Resume: <a href="https://drive.google.com/file/d/1WmfPSKGoWq7TyBJYWngpACDm5QZmqdrE/view?usp=sharing" alt="Vikas Ukani Resume" > Download or View</a></b> </li>
- <li> <b>Here is my Interactive Resume: <a href="https://venngage.net/ps/JQiLZhVP6AM/vikas-ukani-laravel-full-stack-developer-resume" alt="Vikas Ukani Resume" > Download or View</a></b> </li>
+ <li> <b><a href="https://drive.google.com/file/d/1WmfPSKGoWq7TyBJYWngpACDm5QZmqdrE/view?usp=sharing" alt="Vikas Ukani Resume" > Click here to View or Download.</a></b> <br /> </li>
+ 
+ <li> <b><a href="https://venngage.net/ps/JQiLZhVP6AM/vikas-ukani-laravel-full-stack-developer-resume" alt="Vikas Ukani Resume" > Download or View my Interactive CV</a></b> </li>
 
 </ul>
 
