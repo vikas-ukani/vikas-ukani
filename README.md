@@ -29,13 +29,13 @@
 
 <ul>
  
- <li> <p class="text-align: justify;">🔭 Currently I’m working as <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Software Engineer (Full-Stack Developer)</b></a> at <i>Maven Technology</i>.</p></li>
- <li> 💼 Started from Web development from <a href="https://www.coruscatesolution.com/"><b>Coruscate Solution pvt. ltd.</b></a> </li>
+ <li> <p class="text-align: justify;">🔭 Presently, I’m working as <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Software Engineer (Full-Stack Developer)</b></a> at <i>Maven Technology</i>.</p></li>
+ <li> 💼 I began my Web development journey at <a href="https://www.coruscatesolution.com/"><b>Coruscate Solution pvt. ltd.</b></a> </li>
  
  <li> 💡 Highly intrested to become an PYTHONISTS FULL-STACK ENGINEER ❤️</li>
- <li> 🎧 I love to listen an energetic music at work to focus more 🎶 , Watching the Marvelious Movies 📽️. and eatting delicious foods.</li>
+ <li> 🎧 I love to listen an energetic music at work to focusing more 🎶 , Watching the Marvellous Movies 📽️. and eatting delicious foods.</li>
  
- <li> 🌱 I’m currently learning and focusing on Kaggle and participating in <b>Machine Learning</b> and <b>Data Science</b> compititions for personal career intrest...</li>
+ <li> 🌱 I’m currently learning and focusing on <b>Kaggle</b> and Participating in <b>Machine Learning</b> and <b>Data Science</b> compititions for personal career intrest...</li>
  <li> 📫 How to reach me: <b> <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/" target="_blank" class="text-primary"> LinkedIn</a> , <a href="https://www.kaggle.com/vikasukani" target="_blank" class="text-info"> Kaggle</a> , <a href="https://github.com/vikas-ukani" target="_blank" class="text-dark"> GitHub</a>,  <a href="https://www.facebook.com/UknaiVikas" target="_blank" class="text-success"> Facebook</a>, <a href="https://twitter.com/vikas_ukani5" target="_blank" class="text-dark"> Twitter </a>, WhatsApp(+91 )</b> </li>
  
   <li> ⚡ Fun fact: I always eager to explore my skill-set and updated on lettest programming technologies and want to work with huge crew of professional developers.</li>
@@ -109,7 +109,7 @@ if __name__ == "__main__":
     
 
 """
-Did you found any BUGs. 🤔
+Did you found any BUGs on this code. 🤔
 """
 ```
 
@@ -124,7 +124,10 @@ Did you found any BUGs. 🤔
 
 ## About me: 
 
-<p style="text-align: justify;">I'm a <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Software Engineer Web Applicaion Developer(Full-Stack Developer)</b></a> at Maven Technology which is located at <b>Vesu-Surat, Gujarat, India.</b> I'm also excited to work with Python Language and quite interested to learn more about Machine Learning in the Data Science field. Having quite a learning skills to explore new technologies and solving real-life problems.</p>
+<p style="text-align: justify;">
+I currently working as a <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Full-Stack Developer at Maven Company</b></a> in Gujarat, India. I have nearly four years of office experience working in software development in local as well as multi-national companies. I have in-depth knowledge of backend frameworks like Laravel/Lumen, NodeJS, Django/Flask to Build REST APIs, and as a Frontend Framework I use VueJS, ReactJS, and AngularJS, I can handle my website information with several databases, Such as MySQL, MongoDB, PostgreSQL, SQLite. I'm also excited to work with Python Language and quite interested to learn more about Machine Learning in the Data Science field. Having quite a learning skills to explore new technologies and solving real-life problems.
+</p>
+
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
