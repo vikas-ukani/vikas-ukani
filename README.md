@@ -2,7 +2,7 @@
 
 ### Hi There, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" >   Glad to see you here!
 
-# 😎 I'm **Vikas Ukani**, Full-Stack Web-Application Developer. 🔰 
+# 😎 I'm **Vikas Ukani**, Full-Stack | Software Engineer. 🔰 
 
 <!-- 
 
@@ -29,16 +29,16 @@
 
 <ul>
  
- <li> <p class="text-align: justify;">🔭 Currently I’m working with <i>Maven Technology</i> with the position on <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Software Engineer (Full-Stack Developer)</b></a></p></li>
- <li> 💼 Started my career as an Web Developer on <a href="https://www.coruscatesolution.com/"><b>Coruscate Solution pvt. ltd.</b></a> </li>
+ <li> <p class="text-align: justify;">🔭 Currently I’m working as <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Software Engineer (Full-Stack Developer)</b></a> at <i>Maven Technology</i>.</p></li>
+ <li> 💼 Started from Web development from <a href="https://www.coruscatesolution.com/"><b>Coruscate Solution pvt. ltd.</b></a> </li>
  
- <li> 💡 Intrested to become a PYTHONISTS FULL-STACK DEVELOPMENT.</li>
- <li> 🎧 I like to Enjoy a Music 🎶 and Watching the Movies 📽️. and Eat Delicious Foods</li>
+ <li> 💡 Highly intrested to become an PYTHONISTS FULL-STACK ENGINEER ❤️</li>
+ <li> 🎧 I love to listen an energetic music at work to focus more 🎶 , Watching the Marvelious Movies 📽️. and eatting delicious foods.</li>
  
- <li> 🌱 I’m currently learning and working on Kaggle and Participating <b>Machine Learning</b> and <b>Data Science</b> compititions to move my career to the next level and many more...</li>
- <li> 📫 How to reach me: <b> <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/" target="_blank" class="text-primary"> LinkedIn</a> , <a href="https://www.kaggle.com/vikasukani" target="_blank" class="text-info"> Kaggle</a> , <a href="https://github.com/vikas-ukani" target="_blank" class="text-dark"> GitHub</a>,  <a href="https://www.facebook.com/UknaiVikas" target="_blank" class="text-success"> Facebook</a>, Twitter, WhatsApp(+91 )</b> </li>
+ <li> 🌱 I’m currently learning and focusing on Kaggle and participating in <b>Machine Learning</b> and <b>Data Science</b> compititions for personal career intrest...</li>
+ <li> 📫 How to reach me: <b> <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/" target="_blank" class="text-primary"> LinkedIn</a> , <a href="https://www.kaggle.com/vikasukani" target="_blank" class="text-info"> Kaggle</a> , <a href="https://github.com/vikas-ukani" target="_blank" class="text-dark"> GitHub</a>,  <a href="https://www.facebook.com/UknaiVikas" target="_blank" class="text-success"> Facebook</a>, <a href="https://twitter.com/vikas_ukani5" target="_blank" class="text-dark"> Twitter </a>, WhatsApp(+91 )</b> </li>
  
-  <li> ⚡ Fun fact: I always love to explore my skillset and learn lettest programming technologies and wish to work with huge crew of professional developers.</li>
+  <li> ⚡ Fun fact: I always eager to explore my skill-set and updated on lettest programming technologies and want to work with huge crew of professional developers.</li>
   <li> 😄 Pronouns: <b>"Vi"</b> + <b>"kas"</b> </li>
   
 </ul>
@@ -56,14 +56,14 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
-```python
+``` python
 
 
-from software_engineer import SoftwareDeveloper
+from software_engineer import ( SoftwareDeveloper, ProgrammingSkills )
 import os
 
 
-class Position(SoftwareDeveloper):
+class Designation(SoftwareDeveloper):
 
   def __init__(self):
     self.employee_name     =    'Vikas Ukani'
@@ -72,29 +72,35 @@ class Position(SoftwareDeveloper):
     self.location          =    'Vesu Surat'  
 
 
-class Skills(ProgrammingLanguage):
-  programing_language     =    ( 'PHP', 'Python', 'JavaScript' )
-  databases               =    [ 'MySQL', 'MongoDB', 'SQLite', 'PostgreSQL' ]
-  backend_frameworks      =    { 'Laravel', 'NodeJS', 'Django' }
-  frontend_frameworks     =    [ ( 'NextJS' ) , ( 'VueJS' ), ( 'ReactJS' ), ( 'AngularJS' )  ]
+
+class MySkills(ProgrammingSkills):
+
+  def  __init__(self):
+    self.programing_language      =    ( 'PHP', 'Python', 'JavaScript' )
+    self.databases                =    [ 'MySQL', 'MongoDB', 'SQLite', 'PostgreSQL' ]
+    self.backend_frameworks       =    { 'Laravel', 'NodeJS', 'Django' }
+    self.frontend_frameworks      =    [ ( 'NextJS' ) , ( 'VueJS' ), ( 'ReactJS' ), ( 'AngularJS' )  ]  
+    self.tech_stack               =    [ { stack: 'LAMP Stack' } , { stack : "WAMP Stack" } ]
+    self.learning_and_focusing_on =    ( 'ReactJS with NextJS', 'FAST API', 'Django', 'AWS Services', 'CI & CD Development' )
 
 
-def know_more_about_me():
+
+def know_more_about_me(designation: Designation, my_skills: MySkills):
   """
   Want to visit my portfolio site?
   """
   
   from computer import GoogleChrome
   
-  # This Website is Under Development. 😉 
+  # My Portfolio is Under Construction Mode.   😉 
   visit_my_portfolio_website = "https://vikas-ukani.github.io/"
   GoogleChrome.search_in_new_tab(visit_my_portfolio_website)
  
   
 def know_me():
-  position =  Position()
-  skill    =  Skills()
-  know_more_about_me()
+  designation =  Designation()
+  my_skills    =  MySkills()
+  know_more_about_me(designation, my_skills)
   
 
 if __name__ == "__main__":
@@ -102,6 +108,9 @@ if __name__ == "__main__":
     os.system("exit()")
     
 
+"""
+Did you found any BUGs. 🤔
+"""
 ```
 
  
