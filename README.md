@@ -2,7 +2,8 @@
 
 ### Hi There, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" >   Glad to see you here!
 
-# 😎 I'm **Vikas Ukani**, Full-Stack | Software Engineer. 🔰 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&width=600&lines=Hey,+I%27m+Backend+Developer;Hey,+I%27m+Front+End+Developer;Hey,+I%27m+Full+Stack+Developer)](https://git.io/typing-svg)
+# 😎 Hey, I'm **Vikas Ukani**, Full-Stack | Software Engineer. 🔰 
 
 <!-- 
 
