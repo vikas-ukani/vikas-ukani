@@ -148,6 +148,8 @@ I currently working as a <a href="https://www.linkedin.com/in/vikas-ukani-a02499
 
 ## Visual Status
 
+[![Vikas Ukani's github activity graph](https://activity-graph.herokuapp.com/graph?username=vikas-ukani&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikas-ukani&theme=radical)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-ukani&show_icons=true&theme=radical) ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=vikas-ukani&show_icons=true&theme=radical)
