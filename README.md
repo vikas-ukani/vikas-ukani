@@ -2,7 +2,7 @@
 
 ### Hi There, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" >   Glad to see you here!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&width=600&lines=Hey,+I%27m+Backend+Developer;Hey,+I%27m+Front+End+Developer;Hey,+I%27m+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&width=600&font=Maven+Pro&lines=Hey,+I%27m+Backend+Developer;Hey,+I%27m+Front+End+Developer;Hey,+I%27m+Full+Stack+Developer)](https://git.io/typing-svg)
 # 😎 Hey, I'm **Vikas Ukani**, Full-Stack | Software Engineer. 🔰 
 
 <!-- 
@@ -149,7 +149,7 @@ I currently working as a <a href="https://www.linkedin.com/in/vikas-ukani-a02499
 
 ## Visual Status
 
-[![Vikas Ukani's github activity graph](https://activity-graph.herokuapp.com/graph?username=vikas-ukani&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vikas Ukani's github activity graph](https://activity-graph.herokuapp.com/graph?username=vikas-ukani&point=ffffff&&line=EACC45&color=FD428E&bg_color=141321&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikas-ukani&theme=radical)](https://git.io/streak-stats)
 
