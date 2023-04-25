@@ -149,7 +149,7 @@ I currently working as a <a href="https://www.linkedin.com/in/vikas-ukani-a02499
 
 ## Visual Status
 
-[![Vikas Ukani's github activity graph](https://activity-graph.herokuapp.com/graph?username=vikas-ukani&point=ffffff&&line=EACC45&color=FD428E&bg_color=141321&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vikas Ukani's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vikas-ukani&theme=react-dark&point=ffffff&&line=EACC45&color=FD428E&bg_color=141321)](https://github.com/vikas-ukani)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikas-ukani&theme=radical)](https://git.io/streak-stats)
 
