@@ -18,7 +18,7 @@
 <img align="right" alt="GIF" src="https://gifimage.net/wp-content/uploads/2018/06/trabajo-gif-4.gif" width="360"/>
 
 
-### :eyes: No. of Profile Views,
+### :eyes: Profile Views,
 <img alt="Viewers" src="https://komarev.com/ghpvc/?username=vikas-ukani&color=green&style=flat-square"/>
 <!-- Place this tag where you want the button to render. -->
 <!-- <a class="github-button" href="https://github.com/vikas-ukani" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Follow @vikas-ukani on GitHub">Follow @vikas-ukani</a> -->
@@ -30,16 +30,16 @@
 
 <ul>
  
- <li> <p class="text-align: justify;">🔭 Presently, I’m working as <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Product Developer (Full-Stack Developer)</b></a> at <i>DCKAP</i>.</p></li>
- <li> 💼 I began my Web development journey at <a href="https://www.coruscatesolution.com/"><b>Coruscate Solution pvt. ltd.</b> as Web Developer</a> </li>
+ <li> <p class="text-align: justify;">🔭 Presently, I’m working as <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Product Developer (Full-Stack Software Developer)</b></a> at <i>micro1</i>.</p></li>
+ <li> 💼 I began my Web development journey back in 2018 at <a href="https://www.coruscatesolution.com/"><b>Coruscate Solution Pvt. Ltd.</b> </a> as Web Developer.</li>
  
- <li> 💡 Highly intrested to become an Expert in FULL-STACK ENGINEER ❤️</li>
- <li> 🎧 I love to listen an energetic music at work to focusing more 🎶 , Watching the Marvellous Movies 📽️. and eatting delicious foods.</li>
+ <li> 💡 Highly interested in becoming an Expert in FULL-STACK ENGINEER ❤️</li>
+ <li> 🎧 I love to listen to energetic music at work to focus more 🎶 , Watching Marvellous Movies 📽️. and eating delicious foods.</li>
  
- <li> 🌱 I’m currently learning and focusing on <b>Kaggle</b> and Participating in <b>Machine Learning</b> and <b>Data Science</b> compititions for personal career intrest...</li>
+ <li> 🌱 I’m currently learning and focusing on <b>Kaggle</b> and Participating in <b>Machine Learning</b> and <b>Data Science</b> competitions for personal career interest...</li>
  <li> 📫 How to reach me: <b> <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/" target="_blank" class="text-primary"> LinkedIn</a> , <a href="https://www.kaggle.com/vikasukani" target="_blank" class="text-info"> Kaggle</a> , <a href="https://github.com/vikas-ukani" target="_blank" class="text-dark"> GitHub</a>,  <a href="https://www.facebook.com/UknaiVikas" target="_blank" class="text-success"> Facebook</a>, <a href="https://twitter.com/vikas_ukani5" target="_blank" class="text-dark"> Twitter </a>, WhatsApp(+91 )</b> </li>
  
-  <li> ⚡ Fun fact: I always eager to explore my skill-set and updated on lettest programming technologies and want to work with huge crew of professional developers.</li>
+  <li> ⚡ Fun fact: I am always eager to explore my skill set and updated on the latest programming technologies and I want to work with a huge crew of professional developers.</li>
   <li> 😄 Pronouns: <b>"Vi"</b> + <b>"kas"</b> </li>
   
 </ul>
@@ -60,7 +60,7 @@
 ``` python
 
 
-from software_engineer import ( SoftwareDeveloper, ProgrammingSkills )
+from software_engineer import ( SoftwareDeveloper, ProgrammingSkill )
 import os
 
 
@@ -68,7 +68,7 @@ class Designation(SoftwareDeveloper):
 
   def __init__(self):
     self.employee_name     =    'Vikas Ukani'
-    self.employee_role    =    'Product Developer | FullStack Developer'
+    self.employee_role     =    'Product Developer | FullStack Developer'
     self.company_name      =    'DCKAP'
     self.location          =    'Chennai, India'  
 
@@ -126,7 +126,7 @@ Did you found any BUGs on this code. 🤔
 ## About me: 
 
 <p style="text-align: justify;">
-I currently working as a <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Product Developer at DCKAP Company</b></a> in India. I have 4+ years of experience working in Software Development in Multi-National Companies. I have in-depth knowledge of backend frameworks like Laravel, NodeJS, Django/Flask to Build REST APIs, and as a Frontend Framework I use ReactJS, NextJS, VueJS, and AngularJS, I can handle website information with several databases, Such as MySQL, MongoDB, PostgreSQL, SQLite. I'm also excited to work with Python Language and quite interested to learn more about Machine Learning in the Data Science field. Having quite a learning skills to explore new technologies and solving real-life problems.
+I currently working as a <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Product Developer at micro1 Company</b></a>. I have more than 6+ years of experience working in Software Development in global companies. I have in-depth knowledge of backend frameworks like Laravel, NodeJS, and Django/Flask to Build REST APIs, and as a Frontend Framework I use ReactJS, NextJS, VueJS, and AngularJS, I can handle website information with several databases, Such as MySQL, MongoDB, PostgreSQL, SQLite. I'm also excited to work with Python Language and quite interested to learn more about Machine Learning in the Data Science field. Having quite a learning skills to explore new technologies and solve real-life problems.
 </p>
 
  
@@ -143,13 +143,13 @@ I currently working as a <a href="https://www.linkedin.com/in/vikas-ukani-a02499
 
 
 ## Programming Skills In,
-<img src="https://img.shields.io/badge/PHP-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" />  &nbsp;  &nbsp;  <img src="https://img.shields.io/badge/laraveljs-%23D00000.svg?&style=for-the-badge&logo=laraveljs&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/reactjs-%233756AB.svg?&style=for-the-badge&logo=react&logoColor=white" />    &nbsp; &nbsp; <img src="https://img.shields.io/badge/vuejs-%23FCC624.svg?&style=for-the-badge&logo=vuejs&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/Python-%FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23D00000.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/mysql-%FFFFFF.svg?&style=for-the-badge&logo=mysql&logoColor=white" />    &nbsp; &nbsp;      <img src="https://img.shields.io/badge/mongodb-%23FF00AA.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/PHP-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" />  &nbsp;  &nbsp;  <img src="https://img.shields.io/badge/laravel-%23D00000.svg?&style=for-the-badge&logo=laravel&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/nodejs-%23FCC624.svg?&style=for-the-badge&logo=node&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/reactjs-%233756AB.svg?&style=for-the-badge&logo=react&logoColor=white" />    &nbsp; &nbsp; <img src="https://img.shields.io/badge/vuejs-%23FCC624.svg?&style=for-the-badge&logo=vuejs&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/Python-%FFFFFF.svg?&style=for-the-badge&logo=python&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23D00000.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white" />   &nbsp; &nbsp;      <img src="https://img.shields.io/badge/mysql-%FFFFFF.svg?&style=for-the-badge&logo=mysql&logoColor=white" />    &nbsp; &nbsp;      <img src="https://img.shields.io/badge/mongodb-%23FF00AA.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## Visual Status
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vikas-ukani&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vikas-ukani&bg_color=000224&color=d8abd5&line=ff00a2&point=ffc800&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikas-ukani&theme=radical)](https://git.io/streak-stats)
